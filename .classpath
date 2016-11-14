@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="NIAGARA_HOME/modules/baja.jar" sourcepath="NIAGARA_HOME/modules/docBajaEclipse.zip"/>
+	<classpathentry kind="var" path="NIAGARA_HOME/modules/bajaui.jar" sourcepath="NIAGARA_HOME/modules/docBajaEclipse.zip"/>
+	<classpathentry kind="var" path="NIAGARA_HOME/modules/bql.jar" sourcepath="NIAGARA_HOME/modules/docBajaEclipse.zip"/>
+	<classpathentry kind="var" path="NIAGARA_HOME/modules/control.jar" sourcepath="NIAGARA_HOME/modules/docBajaEclipse.zip"/>
+	<classpathentry kind="var" path="NIAGARA_HOME/modules/gx.jar" sourcepath="NIAGARA_HOME/modules/docBajaEclipse.zip"/>
+	<classpathentry kind="var" path="NIAGARA_HOME/modules/kitControl.jar" sourcepath="NIAGARA_HOME/modules/docBajaEclipse.zip"/>
+	<classpathentry kind="var" path="NIAGARA_HOME/modules/wiresheet.jar" sourcepath="NIAGARA_HOME/modules/docBajaEclipse.zip"/>
+	<classpathentry kind="var" path="NIAGARA_HOME/modules/kitPx.jar" sourcepath="NIAGARA_HOME/modules/docBajaEclipse.zip"/>
+	<classpathentry kind="var" path="NIAGARA_HOME/modules/workbench.jar" sourcepath="NIAGARA_HOME/modules/docBajaEclipse.zip"/>
+	<classpathentry kind="var" path="NIAGARA_HOME/modules/weather.jar" sourcepath="NIAGARA_HOME/modules/docBajaEclipse.zip"/>
+	<classpathentry kind="output" path="eclipseBin"/>
+</classpath>

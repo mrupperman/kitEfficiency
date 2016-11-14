@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bajaObjectGraph version="1.0">
+ <p m="b=baja" t="b:Folder">
+
+<p m="b=baja" t="b:Folder" n="SystemAnalysis">
+<p n="AlarmAnalyzer" m="ke=kitEfficiency" t="ke:AlarmAnalyzer"/>
+</p>
+
+<p m="b=baja" t="b:Folder" n="TrendHistories">
+<p n="TrendExporter" m="ke=kitEfficiency" t="ke:TrendExporter"/>
+</p>
+
+<p m="b=baja" t="b:Folder" n="EnergyMetering">
+<p n="ABBGasMeter" m="ke=kitEfficiency" t="ke:ABBGasMeter"/>
+</p>
+
+
+
+</p>
+</bajaObjectGraph>

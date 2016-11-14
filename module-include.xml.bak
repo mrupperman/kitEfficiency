@@ -1,0 +1,12 @@
+<!-- Module Include File -->
+
+<!-- Types -->
+<types>
+  <!-- Type Example:
+  <type name="MyClass" class="com.acme.BMyClass"/>
+  -->
+     <type name="VavAnalyzer" class="com.cfs.vavanalyzer.BVavAnalyzer"/>
+     <type name="AhuAnalyzer" class="com.cfs.ahuanalyzer.BAhuAnalyzer"/>
+     <type name="ABBGasMeter" class="com.cfs.abbgasmeter.BABBGasMeter"/>
+     <type name="AlarmAnalyzer" class="com.cfs.alarmanalyzer.BAlarmAnalyzer"/>
+</types>

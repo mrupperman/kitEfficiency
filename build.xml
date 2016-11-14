@@ -1,0 +1,30 @@
+<!-- Module Build File -->
+
+<module
+  name = "kitEfficiency"
+  bajaVersion = "0"
+  preferredSymbol = "ke"
+  description = "Library to help run your building more efficiently"
+  vendor = "CFS"
+>
+
+  <!-- Dependencies -->
+  <dependency name="baja" vendor="Tridium" vendorVersion="3.6" />
+  <dependency name="bajaui" vendor="Tridium" vendorVersion="3.6" />
+  <dependency name="bql" vendor="Tridium" vendorVersion="3.6" />
+  <dependency name="control" vendor="Tridium" vendorVersion="3.6" />
+  <dependency name="gx" vendor="Tridium" vendorVersion="3.6" />
+  <dependency name="kitControl" vendor="Tridium" vendorVersion="3.6" />
+  <dependency name="weather" vendor="Tridium" vendorVersion="3.6" />
+  <dependency name="wiresheet" vendor="Tridium" vendorVersion="3.6" />
+  <dependency name="workbench" vendor="Tridium" vendorVersion="3.6" />
+  <dependency name="kitPx" vendor="Tridium" vendorVersion="3.6" />
+
+  <package name="com.cfs.abbgasmeter" />
+  <package name="com.cfs.alarmanalyzer" />
+  <package name="com.cfs.trendexporter" />
+
+  <resources  name="res/*.*" /> 
+
+
+</module>

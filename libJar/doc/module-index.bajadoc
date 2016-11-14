@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bajadoc version='1.0' createdBy='Niagara Devkit 3.6.47' createdAt='09-Oct-2013' createdOn='DE2690132620'>
+<module
+  name='kitEfficiency'
+  bajaVersion='0'
+  vendor='CFS'
+  vendorVersion='3.6.47'
+>
+<description>Library to help run your building more efficiently</description>
+</module>
+</bajadoc>
